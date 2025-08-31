@@ -11,7 +11,7 @@
 - Current role: Bot owner
 - Discord status:
   <p align="center">
-    <img alt="Discord Status" src="https://lanyard.cn/embed/807586817581908008?theme=dark" />
+    <a href="https://lanyard.cn/embed/807586817581908008?theme=dark">Ver presencia en Lanyard</a>
   </p>
 
 ---
@@ -66,3 +66,4 @@
 
 
 ---
+
