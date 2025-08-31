@@ -9,6 +9,10 @@
 ## ✨ Profile
 - About me: A young student passionate about creating interesting bots for everyone; interested in programming and gaming.
 - Current role: Bot owner
+- Discord status:
+  <p align="center">
+    <img alt="Discord Status" src="https://lanyard.cn/embed/807586817581908008?theme=dark" />
+  </p>
 
 ---
 
@@ -59,5 +63,6 @@
 ## 📫 Contact
 - Discord: <a href="https://discord.gg/tR7XTnRnrD">Nephra & POP Hub</a>
 - Email: CatBotCommunication@gmail.com
+
 
 ---
