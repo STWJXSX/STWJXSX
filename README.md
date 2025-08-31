@@ -8,7 +8,7 @@
 
 ## ✨ Profile
 - About me: A young student passionate about creating interesting bots for everyone; interested in programming and gaming.
-- Current role: Bot owner
+- Current role: <a href="https://discord.com/users/807586817581908008">Bot Owner</a>
 
 ---
 
@@ -62,6 +62,7 @@
 
 
 ---
+
 
 
 
