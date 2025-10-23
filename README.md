@@ -2,14 +2,14 @@
   <img src="https://cdn.discordapp.com/avatars/807586817581908008/7f391f57605d6b67bcdaa7909bb6dc59.webp?size=1024" width="160" alt="avatar" style="border-radius:50%"/>
 </p>
 
-<h1 align="center">STWJXSX <br/><small style="color:var(--color-secondary)">🔥 Discord Bot Developer</small></h1>
+<h1 align="center">STWJXSX <br/><small style="color:var(--color-secondary)">🔥 Discord Bot & Web Developer</small></h1>
 
 ---
 
 ## ✨ Profile
 - About me: A young student passionate about creating interesting bots for everyone; interested in programming and gaming.
 - Current role: <a href="https://discord.com/users/807586817581908008">Bot Owner</a>
-
+- My Web: <a href="https://info.nephra.space"> with subdomains: info, bot, pp, tos, chat & api</a>
 ---
 
 ## 🤖 My Discord Bots
@@ -62,6 +62,7 @@
 
 
 ---
+
 
 
 
