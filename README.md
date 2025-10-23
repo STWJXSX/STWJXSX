@@ -9,7 +9,8 @@
 ## ✨ Profile
 - About me: A young student passionate about creating interesting bots for everyone; interested in programming and gaming.
 - Current role: <a href="https://discord.com/users/807586817581908008">Bot Owner</a>
-- My Web: <a href="https://info.nephra.space"> with subdomains: info, bot, pp, tos, chat & api</a>
+- My Web: <a href="https://info.nephra.space">Nephra.space</a>
+` with subdomains: info, bot, pp, tos, chat & api`
 ---
 
 ## 🤖 My Discord Bots
@@ -62,6 +63,7 @@
 
 
 ---
+
 
 
 
