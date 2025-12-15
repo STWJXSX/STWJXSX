@@ -33,7 +33,7 @@
         <a href="https://discord.com/oauth2/authorize?client_id=1305273926229950465&permissions=1689917160016961&integration_type=0&scope=bot">Invite POP to your server!</a>
       </p>
       <p>
-        <img alt="POP" src="https://cdn.discordapp.com/avatars/1305273926229950465/6e70715bdd95f507588ee87cc41effbd.webp?size=1024" width="220"/>
+        <img alt="POP" src="https://cdn.discordapp.com/avatars/1305273926229950465/2de23a9e0e78afbac0217927ff7a3d2e.png?size=1024" width="220"/>
       </p>
     </td>
   </tr>
@@ -63,6 +63,7 @@
 
 
 ---
+
 
 
 
