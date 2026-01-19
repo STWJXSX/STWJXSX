@@ -27,10 +27,10 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>POP</h3>
-      <p>The best Fortnite bot. POP: top security, next victory royale!</p>
+      <h3>GLOW</h3>
+      <p>The best Fortnite bot. GLOW: top security, next victory royale!</p>
       <p>
-        <a href="https://discord.com/oauth2/authorize?client_id=1305273926229950465&permissions=1689917160016961&integration_type=0&scope=bot">Invite POP to your server!</a>
+        <a href="https://discord.com/oauth2/authorize?client_id=1305273926229950465&permissions=1689917160016961&integration_type=0&scope=bot">Invite GLOW to your server!</a>
       </p>
       <p>
         <img alt="GLOW" src="https://cdn.discordapp.com/avatars/1305273926229950465/9ad2c8096639934a1440a5845c3e9e3d.png?size=1024" width="220"/>
@@ -58,11 +58,12 @@
 ---
 
 ## 📫 Contact
-- Discord: <a href="https://discord.gg/tR7XTnRnrD">Nephra & POP Hub</a>
+- Discord: <a href="https://discord.gg/tR7XTnRnrD">Nephra & GLOW Hub</a>
 - Email: CatBotCommunication@gmail.com
 
 
 ---
+
 
 
 
