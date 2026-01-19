@@ -23,7 +23,7 @@
         <a href="https://discord.com/oauth2/authorize?client_id=973657100871950376&permissions=8&integration_type=0&scope=bot">Invite Nephra to your server!</a>
       </p>
       <p>
-        <img alt="Nephra" src="https://cdn.discordapp.com/avatars/973657100871950376/019a25bdb9f4d374cd1a73561d901bbe.webp?size=1024" width="220"/>
+        <img alt="Nephra" src="https://cdn.discordapp.com/avatars/973657100871950376/13a0d57041806f7db53dddae0237bf2d.png?size=1024" width="220"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -33,7 +33,7 @@
         <a href="https://discord.com/oauth2/authorize?client_id=1305273926229950465&permissions=1689917160016961&integration_type=0&scope=bot">Invite POP to your server!</a>
       </p>
       <p>
-        <img alt="POP" src="https://cdn.discordapp.com/avatars/1305273926229950465/2de23a9e0e78afbac0217927ff7a3d2e.png?size=1024" width="220"/>
+        <img alt="GLOW" src="https://cdn.discordapp.com/avatars/1305273926229950465/9ad2c8096639934a1440a5845c3e9e3d.png?size=1024" width="220"/>
       </p>
     </td>
   </tr>
@@ -63,6 +63,7 @@
 
 
 ---
+
 
 
 
