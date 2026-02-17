@@ -33,7 +33,7 @@
         <a href="https://discord.com/oauth2/authorize?client_id=1305273926229950465&permissions=1689917160016961&integration_type=0&scope=bot">Invite GLOW to your server!</a>
       </p>
       <p>
-        <img alt="GLOW" src="https://cdn.discordapp.com/avatars/1305273926229950465/9ad2c8096639934a1440a5845c3e9e3d.png?size=1024" width="220"/>
+        <img alt="GLOW" src="https://cdn.discordapp.com/avatars/1305273926229950465/1c283e29882448d45df9782df51ca0c4.png?size=1024" width="220"/>
       </p>
     </td>
   </tr>
@@ -58,11 +58,12 @@
 ---
 
 ## 📫 Contact
-- Discord: <a href="https://discord.gg/tR7XTnRnrD">Nephra & GLOW Hub</a>
+- Discord: <a href="https://discord.gg/tR7XTnRnrD">Glow Haven</a>
 - Email: CatBotCommunication@gmail.com
 
 
 ---
+
 
 
 
