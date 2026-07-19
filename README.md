@@ -144,15 +144,15 @@ STW automation · BR shop feeds · account tools · premium · tickets · multi-
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.demolab.com/api?username=STWJXSX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffc87c&icon_color=ffc87c&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+      <img src="./profile/stats.svg" alt="GitHub stats" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-streak-stats.demolab.com/?user=STWJXSX&theme=tokyonight&hide_border=true&background=0D1117&ring=FFC87C&fire=FFC87C&currStreakLabel=FFC87C" alt="GitHub streak" />
+      <img src="./profile/streak.svg" alt="GitHub streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=STWJXSX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffc87c&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+      <img src="./profile/top-langs.svg" alt="Top languages" />
     </td>
   </tr>
 </table>
