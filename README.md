@@ -9,23 +9,13 @@
 ## ✨ Profile
 - About me: A young student passionate about creating interesting bots for everyone; interested in programming and gaming.
 - Current role: <a href="https://discord.com/users/807586817581908008">Bot Owner</a>
-- My Web: <a href="https://info.nephra.space">Nephra.space</a>
-` with subdomains: info, bot, pp, tos, chat & api`
+- My Web: <a href="https://glowhaven.site">glowhaven.site</a>
+
 ---
 
 ## 🤖 My Discord Bots
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>NEPHRA</h3>
-      <p>A bot to moderate your server, provide an AI channel, set customizable YouTube/Twitch ping channels, etc.</p>
-      <p>
-        <a href="https://discord.com/oauth2/authorize?client_id=973657100871950376&permissions=8&integration_type=0&scope=bot">Invite Nephra to your server!</a>
-      </p>
-      <p>
-        <img alt="Nephra" src="https://cdn.discordapp.com/avatars/973657100871950376/13a0d57041806f7db53dddae0237bf2d.png?size=1024" width="220"/>
-      </p>
-    </td>
     <td width="50%" valign="top">
       <h3>GLOW</h3>
       <p>The best Fortnite bot. GLOW: top security, next victory royale!</p>
@@ -59,8 +49,6 @@
 
 ## 📫 Contact
 - Discord: <a href="https://discord.gg/tR7XTnRnrD">Glow Haven</a>
-- Email: CatBotCommunication@gmail.com
-
 
 ---
 
